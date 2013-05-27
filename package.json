@@ -1,0 +1,26 @@
+{
+   	"name": "myApp",
+   	"version": "0.0.1",
+	"author": {
+		"name": "Thomas Thiery",
+		"email": "thomas-thiery@th-th.fr"
+	},
+   	"private": false,
+   	"directories": {
+        "services": "lib/services",
+        "controllers": "lib/controllers"
+   	},
+   	"dependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-requirejs": "~0.4.0",
+        "grunt-regarde": "~0.1.1"
+   	},
+   	"repository": {
+   	    "type": "git",
+   	    "url": "https://thomas_thiery@bitbucket.org/thomas_thiery/parents-core.git"
+   	},
+	"engines": {
+    	"node": "0.10.x",
+		"npm": "1.2.x"
+	}
+}
