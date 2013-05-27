@@ -7,9 +7,9 @@ This is a simple [AngularJS](http://angularjs.org/) Seed with [RequireJS](http:/
 ## Contents
 
 - The `README.md` file describe the project
-- The `rMyApp.js` file describe the require configuration for the SDK
-- The `GruntFile.js` file to describe the grunt Task to compile the SDK
-- The `package.json` file give useful informations for the SDK package (author, dependencies...)
+- The `rMyApp.js` file describe the require configuration for the example
+- The `GruntFile.js` file to describe the grunt Task to compile the example
+- The `package.json` file give useful informations for the example package (author, dependencies...)
 - The `lib/ngMyApp.js` the main Angular module defintion
 
 ## Prerequisites
@@ -20,14 +20,14 @@ This is a simple [AngularJS](http://angularjs.org/) Seed with [RequireJS](http:/
 ## Install a simple Angular seed with requireJS
 Enter the following commands in the terminal.
 
-1. `git clone git://github.com/CaryLandholt/AngularFun.git`
+1. `git clone https://github.com/matohawk/angular-seed-requirejs.git`
 2. `cd angular-seed-requirejs`
 3. `npm install`
 
 ## Getting Started
 - Installation and prerequisites
     - To compile the example and generate the myApp.js use `grunt`
-    - To watch js files to any changes and compile the SDK and optimize use `grunt watch`
+    - To watch js files to any changes and compile the example and optimize use `grunt watch`
 
 ## Commentary
 - We refer in the DOM only the myApp.js who is generate by RequireJS server side
