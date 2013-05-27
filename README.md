@@ -26,7 +26,7 @@ Enter the following commands in the terminal.
 
 ## Getting Started
 - Installation and prerequisites
-    - To compile the SDK and generate the MyApp.js use `grunt`
+    - To compile the example and generate the myApp.js use `grunt`
     - To watch js files to any changes and compile the SDK and optimize use `grunt watch`
 
 ## Commentary
